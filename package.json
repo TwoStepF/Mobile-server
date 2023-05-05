@@ -19,5 +19,6 @@
   "homepage": "https://github.com/TwoStepF/Mobile-server#readme",
   "dependencies": {
     "koa": "^2.14.2"
-  }
+  },
+  "type": "module"
 }
